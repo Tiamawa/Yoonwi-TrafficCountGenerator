@@ -1,0 +1,34 @@
+[0m[[0m[31merror[0m] [0m[0mF:\AWA TIAM\PROJETS SONATEL\projets\DIC3\TraficCountGenerator\src\main\scala\com\sonatel\yoonwi\utils\CustomConfig.scala:36:49: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : String[0m
+[0m[[0m[31merror[0m] [0m[0m required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m    EXPERIMENT_SECTION_ID = configFile.getString("YOONWI.SECTION.EXPERIMENT_SECTION_ID")[0m
+[0m[[0m[31merror[0m] [0m[0m                                                ^[0m
+[0m[[0m[31merror[0m] [0m[0mF:\AWA TIAM\PROJETS SONATEL\projets\DIC3\TraficCountGenerator\src\main\scala\com\sonatel\yoonwi\utils\CustomConfig.scala:37:64: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : String[0m
+[0m[[0m[31merror[0m] [0m[0m required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m    EXPERIMENT_SECTION_CRITICAL_VELOCITY = configFile.getString("YOONWI.SECTION.EXPERIMENT_SECTION_CRITICAL_VELOCITY")[0m
+[0m[[0m[31merror[0m] [0m[0m                                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mF:\AWA TIAM\PROJETS SONATEL\projets\DIC3\TraficCountGenerator\src\main\scala\com\sonatel\yoonwi\utils\CustomConfig.scala:38:60: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : String[0m
+[0m[[0m[31merror[0m] [0m[0m required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m    EXPERIMENT_SECTION_FREE_VELOCITY = configFile.getString("YOONWI.SECTION.EXPERIMENT_SECTION_FREE_VELOCITY")[0m
+[0m[[0m[31merror[0m] [0m[0m                                                           ^[0m
+[0m[[0m[31merror[0m] [0m[0mF:\AWA TIAM\PROJETS SONATEL\projets\DIC3\TraficCountGenerator\src\main\scala\com\sonatel\yoonwi\utils\CustomConfig.scala:39:69: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : String[0m
+[0m[[0m[31merror[0m] [0m[0m required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m    EXPERIMENT_SECTION_CRITICAL_CONCENTRATION = configFile.getString("YOONWI.SECTION.EXPERIMENT_SECTION_CRITICAL_CONCENTRATION")[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mF:\AWA TIAM\PROJETS SONATEL\projets\DIC3\TraficCountGenerator\src\main\scala\com\sonatel\yoonwi\utils\CustomConfig.scala:40:68: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : String[0m
+[0m[[0m[31merror[0m] [0m[0m required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m    EXPERIMENT_SECTION_MAXIMAL_CONCENTRATION = configFile.getString("YOONWI.SECTION.EXPERIMENT_SECTION_MAXIMAL_CONCENTRATION")[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mF:\AWA TIAM\PROJETS SONATEL\projets\DIC3\TraficCountGenerator\src\main\scala\com\sonatel\yoonwi\utils\CustomConfig.scala:41:45: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : String[0m
+[0m[[0m[31merror[0m] [0m[0m required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m    SLEEPING_INTERVAL = configFile.getString("YOONWI.MONGO.SLEEPING_INTERVAL")[0m
+[0m[[0m[31merror[0m] [0m[0m                                            ^[0m
+[0m[[0m[31merror[0m] [0m[0mF:\AWA TIAM\PROJETS SONATEL\projets\DIC3\TraficCountGenerator\src\main\scala\com\sonatel\yoonwi\utils\CustomConfig.scala:42:28: com.typesafe.config.Config does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    OUTPUT_URI = configFile("YOONWI.MONGO.OUTPUT_URI")[0m
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m7 errors found[0m
